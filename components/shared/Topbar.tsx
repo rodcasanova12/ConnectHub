@@ -9,7 +9,7 @@ function Topbar() {
     <nav className="topbar">
         <Link href='/' className="flex items-center gap-4">
             <Image src="/assets/logo.svg" alt="logo" width={85} height={200} />
-            <p className="text-heading3-bold text-light-1 max-xs:hiden"></p>
+            <p className="text-heading3-bold text-light-1 max-xs:hidden"></p>
         </Link>
 
         <div className="flex items-center gap-1">
