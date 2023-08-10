@@ -36,7 +36,7 @@ async function Page() {
                                         <span className="mr-1 text-primary-500">
                                             {activity.author.name}                                            
                                         </span>{" "}
-                                        replied to your post.
+                                            replied to your post.
                                     </p>
                                 </article>
                             </Link>
